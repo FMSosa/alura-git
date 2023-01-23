@@ -1,0 +1,23 @@
+[33mcommit 290f3275fb7552febc85e181564ff6bfb1531832[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Fer Sosa <fersosa.laplata@gmail.com>
+Date:   Mon Jan 23 08:53:41 2023 -0300
+
+    modificando el titulo
+
+[33mcommit 40853e7dd001abe548a40802102be60b99138b06[m[33m ([m[1;31mservidorlocal/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Fernando <fersosa.laplata@gmail.com>
+Date:   Sun Jan 22 17:31:02 2023 -0300
+
+    Renombrando curso
+
+[33mcommit 73be8264310749f37204b8e40a47a67ee080fa1e[m
+Author: Fernando <fersosa.laplata@gmail.com>
+Date:   Fri Jan 20 19:59:58 2023 -0300
+
+    Modificacion de elementos de la lista
+
+[33mcommit f8184b335c51dd522c449206324d77d161ccc2de[m
+Author: Fernando <fersosa.laplata@gmail.com>
+Date:   Fri Jan 20 19:44:18 2023 -0300
+
+    Primer version del documento index.html con lista de cursos
